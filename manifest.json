@@ -1,13 +1,12 @@
 {
-  "name": "DU — Controle Financeiro",
+  "name": "DU - Seu dinheiro, na mão",
   "short_name": "DU",
-  "description": "Controle financeiro pessoal DU",
+  "description": "Aplicativo de controle financeiro pessoal DU",
   "start_url": "./",
-  "scope": "./",
   "display": "standalone",
-  "background_color": "#f4efe7",
-  "theme_color": "#6e201b",
-  "lang": "pt-BR",
+  "background_color": "#1a120e",
+  "theme_color": "#1a120e",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "icon-192.png",
