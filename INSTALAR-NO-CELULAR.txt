@@ -1,0 +1,3 @@
+DU — versão instalável (PWA)
+
+Envie estes arquivos para o mesmo lugar do GitHub Pages. Depois abra o site no celular e escolha Adicionar à tela inicial/Instalar aplicativo.
